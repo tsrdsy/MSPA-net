@@ -116,7 +116,6 @@ If you use this code or models in your research, please cite:
 @article{Shen2026MSPANet,
   title={MSPA-Net: A Multi-dimensional Orthogonality-penalized Sharpened Prototype Attention Network for Complex Pathological Gait Screening and Differentiation},
   author={Shen, Aoli and Chen, Xinpeng and Yang, Chaoxiang and Lin, Zhangdi and Xu, Hanlin},
-  journal={arXiv preprint}, 
   year={2026}
 }
 ```
