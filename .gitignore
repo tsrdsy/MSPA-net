@@ -1,0 +1,24 @@
+# Ignore all Python source files
+*.py
+
+# Ignore Python directories
+src/
+__pycache__/
+
+# Ignore configuration files
+config.py
+requirements.txt
+
+# Ignore other files
+README1.md
+MSPA-Net.png
+
+# Ignore IDE directories
+.idea/
+.vscode/
+
+# Ignore experiments
+experiments/
+
+# Ignore datasets
+datasets/
