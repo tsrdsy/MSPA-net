@@ -6,7 +6,7 @@
 
 ## ⚠️ Code Availability
 
-**The full source code, pretrained models, and training scripts will be released in this repository upon acceptance of the paper.** 
+**The full source code and training scripts will be released in this repository upon acceptance of the paper.** 
 
 Currently, this repository serves as a placeholder for upcoming release. Stay tuned!
 
